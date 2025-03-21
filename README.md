@@ -12,4 +12,8 @@ Tbnak [deeplinkWithParamsOperations](tinkoffbank://Main/TravelsWebFlight?link=ht
 
 Tbnak [deeplinkWithParamsFuel](tinkoffbank://Main/TravelsWebFlight?link=https%3A%2F%2Fwww-test.tbank.ru%2Fmybank%2Fgorod%2Ffuel%2F%3Fiswebview%3Dtrue)
 
+[Chat deeplink](tinkoffbank://Main/Chat/Support?textParams=closeSavingAccount)
+
+[Chat deeplink no focus](tinkoffbank://Main/Chat/Support?textParams=closeSavingAccount&focus=true)
+
 
