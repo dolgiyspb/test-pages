@@ -16,6 +16,6 @@ Tbnak [deeplinkWithParamsFuel](tinkoffbank://Main/TravelsWebFlight?link=https%3A
 
 [Chat deeplink no focus](tinkoffbank://Main/Chat/Support?textParams=closeSavingAccount&focus=true)
 
-[help](tinkoffbank://Main/HelpsWebView?linkId=services-city-refueling-all-after)
+[help](tinkoffbank://Main/HelpsWebView?linkId=bank-payments-t-pay-about-problem)
 
 
