@@ -8,6 +8,8 @@ Tbnak [deeplinkWithParams](tinkoffbank://Main/TravelsWebFlight?link=https%3A%2F%
 
 Tbnak [deeplinkWithTravelFlagParams](tinkoffbank://Main/TravelsWebFlight?link=https%3A%2F%2Fwww-test.tbank.ru%2Fmybank%2Faccounts%2Fnpf%2F%3Fiswebview%3Dtrue%26isTravel%3Dtrue)
 
+Tbnak [deeplinkWithTravelFlagProd](tinkoffbank://Main/TravelsWebFlight?link=https%3A%2F%2Fwww.tbank.ru%2Fmybank%2Faccounts%2Fnpf%2F%3Fiswebview%3Dtrue%26isTravel%3Dtrue)
+
 Tbnak [deeplinkWithParamsOperations](tinkoffbank://Main/TravelsWebFlight?link=https%3A%2F%2Fwww-test.tbank.ru%2Fmybank%2Faccounts%2Fnpf%2F%2Foperations%3Fiswebview%3Dtrue)
 
 Tbnak [deeplinkWithParamsFuel](tinkoffbank://Main/TravelsWebFlight?link=https%3A%2F%2Fwww-test.tbank.ru%2Fmybank%2Fgorod%2Ffuel%2F%3Fiswebview%3Dtrue)
