@@ -14,6 +14,8 @@ Tbnak [deeplinkWithFuelProd](tinkoffbank://Main/TravelsWebFlight?link=https%3A%2
 
 Tbnak [platformPensionProd](bank100000000004://WebView?id=pension_default)
 
+Tbnak [platformPensionProdAndroid](tbank://WebView?id=pension_default)
+
 Tbnak [deeplinkWithParamsOperations](tinkoffbank://Main/TravelsWebFlight?link=https%3A%2F%2Fwww-test.tbank.ru%2Fmybank%2Faccounts%2Fnpf%2F%2Foperations%3Fiswebview%3Dtrue)
 
 Tbnak [deeplinkWithParamsFuel](tinkoffbank://Main/TravelsWebFlight?link=https%3A%2F%2Fwww-test.tbank.ru%2Fmybank%2Fgorod%2Ffuel%2F%3Fiswebview%3Dtrue)
