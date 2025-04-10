@@ -33,4 +33,6 @@ Tbnak [deeplinkWithParamsFuel](tinkoffbank://Main/TravelsWebFlight?link=https%3A
 
 [help bank100000000004](tinkoffbank://Main/HelpsWebView?linkId=bank-payments-t-pay-about-problem)
 
+[Product page main tabnk](tbank://WebView?id=pension_product_page_main)
+
 
