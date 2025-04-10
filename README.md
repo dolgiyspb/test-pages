@@ -35,4 +35,9 @@ Tbnak [deeplinkWithParamsFuel](tinkoffbank://Main/TravelsWebFlight?link=https%3A
 
 [Product page main tabnk](tbank://WebView?id=pension_product_page_main)
 
+[Opening pds test](tbank://Main/TravelsWebFlight?link=https%3A%2F%2Fwww-test.tbank.ru%2Fmybank%2Fnpf%2Fopening-pds%2F%3Fiswebview%3Dtrue%26isTravel%3Dtrue)
+
+
+
+
 
