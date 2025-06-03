@@ -41,7 +41,7 @@ Tbnak [deeplinkWithParamsFuel](tinkoffbank://Main/TravelsWebFlight?link=https%3A
 
 [Opening pds platform Android](tbank://WebView?id=pension_opening_pds)
 
-[Product page test travel](tbank://Main/TravelsWebFlight?link=https%3A%2F%2Fwww-test.tbank.ru%2Fmybank%2Fnpf%2Fproduct-page%2Fsavings%2F%3Fiswebview%3Dtrue%26isTravel%3Dtrue%26mbversion%3D6.37%26platform%3Dandroid
+[Product page test travel](tinkoffbank://Main/TravelsWebFlight?link=https%3A%2F%2Fwww-test.tbank.ru%2Fmybank%2Fnpf%2Fproduct-page%2Fsavings%2F%3Fiswebview%3Dtrue%26isTravel%3Dtrue%26mbversion%3D6.37%26platform%3Dandroid
 )
 
 
