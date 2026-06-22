@@ -45,6 +45,11 @@ Tbnak [deeplinkWithParamsFuel](tinkoffbank://Main/TravelsWebFlight?link=https%3A
 )
 
 
+[Личный кабинет ОПС Adnroid](tbank://WebView?id=pension_ops)
+
+[Личный кабинет ОПС IOS](bank100000000004://WebView?id=pension_ops)
+
+
 
 
 
